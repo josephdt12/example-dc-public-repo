@@ -1,5 +1,5 @@
 module "basic_example" {
-  source = "git::https://us-central1-git.developerconnect.dev/140625807922/example-repo/josephdt12-example-repo"
+  source = "git::https://us-central1-git.developerconnect.dev/997610394910/josephdt12/josephdt12-example-repo"
 
   # You can override the default variable value
   input_value = "This is a custom message."
